@@ -1,0 +1,10 @@
+#include "../StdInc.h"
+
+void Menus::MenuName() 
+{
+	SetMenuTitle("Menu Name");
+
+	// content
+
+	StyleMenu();
+}

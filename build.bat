@@ -1,0 +1,1 @@
+cl /Fe:Release\JUNE.Trainer.asi /Fo.\Release\ /Oi /LD /MT /Gm /Zi /EHsc *.cpp Menus\*.cpp
